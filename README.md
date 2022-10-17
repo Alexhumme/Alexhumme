@@ -1,4 +1,4 @@
-- 👋 Hola, soy Alex Valdelamar Bustamante y me pueden encontrar como @Alexhumme aquii en github
+- 👋 Hola, soy Alex Valdelamar Bustamante y me pueden encontrar como @Alexhumme aqui en github
 - 👀 Me interesa el desarrollo de software como herramienta para el apoyo de la educacion
 - 🌱 Estoyy haciendo un curso tecnico en el SENA de programacion de software
 - 📫 Contacto:
