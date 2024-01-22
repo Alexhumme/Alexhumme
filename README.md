@@ -2,10 +2,8 @@
 - 👀 Me interesa el desarrollo de software como herramienta para el apoyo de la educacion
 - 🌱 Estoyy haciendo un curso tecnico en el SENA de programacion de software
 - 📫 Contacto:
--     celular: 3208051693
--     whatsapp: 3152041450
--     telegram: 3152041450
--     correo: avaldelamar57@misena.edu.co
+-     telegram/whatsapp: 3208051693
+-     email: valdelex3@gmail.com
 -     
 
 <!---
