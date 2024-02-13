@@ -1,10 +1,9 @@
 <center> <h1>Hola, soy Alex! aka <a>AlexHumme</a>👋</h1> </center>
 
 <img src="https://i.imgur.com/N7tRaJh.png">
-<a href="https://www.linkedin.com/in/alex-vadelamar-bustamante/">
 
-![Static Badge](https://img.shields.io/badge/AlexVB-Linkedin-blue?logo=Linkedin&color=%230A66C2)
-</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/AlexVB-Linkedin-blue?logo=Linkedin&color=%230A66C2)](https://www.linkedin.com/in/alex-vadelamar-bustamante/)
 [![GitHub followers](https://img.shields.io/github/followers/alexhumme?style=social)](https://github.com/Alexhumme)
 
 ## Sobre mí
