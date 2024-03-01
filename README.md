@@ -1,4 +1,4 @@
-<center> <h1>Hola, soy Alex! aka <a>AlexHumme</a>👋</h1> </center>
+<div align="center"> <h1>Hola, soy Alex! aka <a>AlexHumme</a>👋</h1> </div align="center">
 
 <img src="https://i.imgur.com/N7tRaJh.png">
 
@@ -7,9 +7,9 @@
 
 ## Sobre mí 🙋‍♂️
 
-<center>
+<div align="center">
 🖍️🎸💻🟨🟦🟥 Programador, músico y dibujante Colombiano 🟨🟦🟥💻🎸🖍️
-</center>
+</div>
 
 <br>
 
@@ -19,7 +19,7 @@
 
 ## Tecnologias que uso 👨‍💻
 
-<center>
+<div align="center">
 
 ### ✨ Lenguajes favoritos ✨
 
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-</center>
+</div>
 
 ## Proyectos recientes 💫
 
