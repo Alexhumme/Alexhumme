@@ -1,6 +1,6 @@
 <div align="center"> <h1>Hola, soy Alex! aka <a>AlexHumme</a>👋</h1> </div align="center">
 
-<img src="https://i.imgur.com/N7tRaJh.png">
+<img src="https://i.imgur.com/RYzwKlB.png">
 
 [![Linkedin Badge](https://img.shields.io/badge/AlexVB-Linkedin-blue?logo=Linkedin&color=%230A66C2)](https://www.linkedin.com/in/alex-vadelamar-bustamante/)
 [![GitHub followers](https://img.shields.io/github/followers/alexhumme?style=social)](https://github.com/Alexhumme)
@@ -58,7 +58,7 @@
 <td width="50%">
 <h3 align="center">Portalagro</h3>
 <div align="center">
-<img src="https://i.imgur.com/E4PmK3C.png" width="400" alt="Portalagro">
+<img src="https://i.imgur.com/0ugvMZF.png" width="400" alt="Portalagro">
 <a>
 
 [![Chainlink](https://img.shields.io/badge/conocer_proyecto-375BD2?style=for-the-badge&color=gray&logo=googleChrome&logoColor=white&labelColor=282828)](https://www.portalagro.app)
